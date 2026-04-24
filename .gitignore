@@ -6,6 +6,8 @@ dist/
 wheels/
 *.egg-info
 
+reply.wav
+./voices
 #env file
 .env
 # Virtual environments
